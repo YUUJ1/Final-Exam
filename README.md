@@ -33,3 +33,27 @@ you have to push the star button in the top right corner of your chosen anime.
 
 
 
+you can find saved animes in "save" section by pushin small star given in the middle of navigation bar.
+
+
+
+
+
+
+
+
+
+![Inkedhome page1_LI](https://user-images.githubusercontent.com/92739122/150612116-c522f368-297e-4d3a-a8ca-839d2f48147e.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
