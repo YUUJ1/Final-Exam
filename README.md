@@ -42,8 +42,16 @@ and logout with pushing the button.
 
 
 
+if you want to find out more about anime you just have to go to the anime page by clicking on the desired anime.
 
 
+![Inked1_LI](https://user-images.githubusercontent.com/92739122/150613088-191b1b0b-56eb-4747-9913-755550f6b65a.jpg
+
+
+and here you can see the details about anime and link where to watch.
+
+
+![anime page](https://user-images.githubusercontent.com/92739122/150613205-3492cbc2-5858-4d1e-ad09-b706fa7e5cfb.jpg)
 
 
 
