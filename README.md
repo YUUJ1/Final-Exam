@@ -54,7 +54,21 @@ and here you can see the details about anime and link where to watch.
 ![anime page](https://user-images.githubusercontent.com/92739122/150613205-3492cbc2-5858-4d1e-ad09-b706fa7e5cfb.jpg)
 
 
+Keep in mind
+-----------
+
+this application is not finished and is still experiencig many bugs,
+plus there are many things we want to add but for now we have done only small part of them,
+so there might be some changes coming in near future.
 
 
+
+
+This application was mabe by Business and Technologies students Nukri Akhalaia and Luka Makharadze for the final exam.
+
+If you want to support the creators of this app you can contact them via email
+
+luka.makharadze.1@btu.edu.ge
+nukri.akhalaia.1@btu.edu.ge 
 
 
