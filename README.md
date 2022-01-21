@@ -27,6 +27,19 @@ you can find saved animes in "save" section by pushin small star given in the mi
 
 
 
+in the settings section.
+
+
+![Inkedhome page1_LI](https://user-images.githubusercontent.com/92739122/150612334-51c8daf3-3944-418c-8149-85eef4709e6b.jpg)
+
+
+you can change youser name and profile picture, by typing new user name or inputing new image url
+and logout with pushing button.
+
+
+
+![Inkedsettings page_LI](https://user-images.githubusercontent.com/92739122/150612622-9584a8cb-2f9b-4a9b-9bbf-0fde9b4584da.jpg)
+
 
 
 
