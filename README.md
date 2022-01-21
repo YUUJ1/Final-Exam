@@ -33,8 +33,8 @@ in the settings section.
 ![Inkedhome page1_LI](https://user-images.githubusercontent.com/92739122/150612334-51c8daf3-3944-418c-8149-85eef4709e6b.jpg)
 
 
-you can change youser name and profile picture, by typing new user name or inputing new image url
-and logout with pushing button.
+you can change user name and profile picture, by typing new user name or inputing new image url
+and logout with pushing the button.
 
 
 
